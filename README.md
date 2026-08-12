@@ -8,6 +8,12 @@ The client gave us a high level goal for the application but intentionally left 
 
 ---
 
+## Confidentiality note
+
+This project was developed in collaboration with a wind energy company. The source code is confidential and cannot be shared publicly. The project poster is provided to give an overview of the project and its results.
+
+---
+
 ## Goal
 
 The goal of the project was to design and develop a mobile application that would better support technicians working in wind parks by improving usability, clarity, and workflow efficiency.
@@ -37,8 +43,3 @@ The project gave me hands-on experience in:
 - UX/UI decision-making
 - balancing usability, technical constraints, and stakeholder expectations
 
----
-
-## Confidentiality note
-
-This project was developed in collaboration with a wind energy company. The source code is confidential and cannot be shared publicly. The project poster is provided to give an overview of the project and its results.
