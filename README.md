@@ -27,22 +27,6 @@ During the design phase, I created and presented UI concepts and visual ideas fo
 
 ---
 
-## Process
-
-Since the client provided very few design requirements, our team had to independently define the application’s visual style and user experience.
-
-My design process focused on:
-
-- creating a clear and intuitive mobile interface
-- designing a consistent visual style
-- supporting usability for technicians working in practical field environments
-
-I explored different layout and visual approaches before presenting a design direction to both the team and the client.
-
-Because I also worked on the backend side of the project, I gained insight into how UX/UI decisions connect with technical implementation and system logic.
-
----
-
 ## Outcome 
 
 The final application design was based on the UI direction I presented during the project.
