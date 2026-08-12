@@ -39,10 +39,6 @@ The project gave me hands-on experience in:
 
 ---
 
-## The product
-
-linkki tähän
-
 ## Confidentiality note
 
 This project was developed in collaboration with a wind energy company. The source code is confidential and cannot be shared publicly. The project poster is provided to give an overview of the project and its results.
